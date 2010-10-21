@@ -15,8 +15,7 @@ function h($s){
  * @param <string> $s
  * @return <int> convert string to int short name
  */
-function i($s){
-        $i=0;
+function i($s){        
         return intval($s);
 }
 
